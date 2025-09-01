@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Focus Garden - Privacy Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; margin-top: 30px; }
+        .last-updated { color: #7f8c8d; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Focus Garden</h1>
+    <p class="last-updated">Last updated: January 2025</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>Focus Garden is designed with privacy in mind. We collect minimal information:</p>
+    <ul>
+        <li><strong>Local Data Only:</strong> Your focus session data, timer settings, and progress statistics are stored locally on your device</li>
+        <li><strong>No Personal Information:</strong> We do not collect names, email addresses, or personal identifiers</li>
+        <li><strong>No Account Required:</strong> The app works without creating accounts or providing personal details</li>
+    </ul>
+
+    <h2>2. How We Use Information</h2>
+    <p>All data collected is used solely to:</p>
+    <ul>
+        <li>Track your focus sessions and productivity statistics</li>
+        <li>Save your timer preferences and settings</li>
+        <li>Display your progress and achievements</li>
+        <li>Provide a personalized experience within the app</li>
+    </ul>
+
+    <h2>3. Data Storage</h2>
+    <ul>
+        <li><strong>Local Storage:</strong> All your data is stored locally on your device</li>
+        <li><strong>No Cloud Sync:</strong> We do not upload your data to external servers</li>
+        <li><strong>Device Control:</strong> You can delete all data by uninstalling the app</li>
+    </ul>
+
+    <h2>4. Data Sharing</h2>
+    <p>We do not share, sell, or transfer your data to third parties. Your information stays on your device.</p>
+
+    <h2>5. Permissions</h2>
+    <p>Focus Garden may request the following permissions:</p>
+    <ul>
+        <li><strong>Audio:</strong> To play timer sounds and notifications</li>
+        <li><strong>Storage:</strong> To save your settings and progress locally</li>
+    </ul>
+
+    <h2>6. Children's Privacy</h2>
+    <p>Focus Garden is suitable for all ages. We do not knowingly collect personal information from children under 13.</p>
+
+    <h2>7. Security</h2>
+    <p>Since all data is stored locally on your device, security depends on your device's security measures. We recommend keeping your device updated and secure.</p>
+
+    <h2>8. Changes to Privacy Policy</h2>
+    <p>We may update this privacy policy occasionally. Changes will be reflected in the app and on this page.</p>
+
+    <h2>9. Contact Us</h2>
+    <p>If you have questions about this privacy policy, please contact us at:</p>
+    <p>Email: privacy@focusgarden.app</p>
+
+    <h2>10. Third-Party Services</h2>
+    <p>Focus Garden does not integrate with third-party analytics, advertising, or tracking services.</p>
+
+    <p><em>This privacy policy is effective as of the date listed above and applies to all users of the Focus Garden mobile application.</em></p>
+</body>
+</html>
